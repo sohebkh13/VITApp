@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/VITApp.iml" filepath="$PROJECT_DIR$/VITApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/VITApps.iml" filepath="$PROJECT_DIR$/.idea/VITApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
